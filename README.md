@@ -23,7 +23,7 @@ The primary objectives of this analysis include:
 4.	**Publisher Contribution:** Assess the contribution of individual publishers to overall global sales and explore market share.
 5.	**Temporal Trends and Yearly Analysis:** Examine temporal trends in the video game industry, analyzing global sales and game releases over the years.
 
-## Analysis Process
+## ANALYSIS PROCESS 
 1.	***Data Cleaning and Preprocessing:*** Handle missing values, outliers, and ensure data consistency.
 2. ***Exploratory Data Analysis (EDA):*** Conduct descriptive statistics and create visualizations to understand data characteristics.
 3.	***Specific Analyses:*** Perform analyses according to each objective, utilizing appropriate statistical and visualization techniques.
